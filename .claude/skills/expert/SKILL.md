@@ -47,7 +47,10 @@ current state in code before planning against it.
 
 | Reference | USE WHEN |
 |---|---|
-| _(empty — the first /learn, Reflect, or your own edit adds the first shard)_ | |
+| `how-to-add-a-feature` | starting a new feature, filing a PRD, understanding the build workflow |
+| `how-to-validate` | writing run-prd-test.sh, deciding what "done" means, verifying a feature |
+| `concept-architecture` | deciding where new code belongs, understanding the project's purpose |
+| `invariant-no-unreviewed-deps` | about to add a package.json dependency or import a new library |
 
 ## Writing to this memory
 
